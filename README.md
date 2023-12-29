@@ -19,6 +19,8 @@ column. The dataset includes the following columns:
 5. 'zipMerchant': The zip code of the merchant where the payment is made.
 6. 'fraud': The target variable indicating whether the transaction is fraudulent (1) or 
 not (0).
+
+
 Background Information: Payment fraud occurs when unauthorized and deceptive 
 transactions are made with the intention to deceive financial institutions and exploit 
 account holders. Fraudsters employ various techniques to mask their activities and 
